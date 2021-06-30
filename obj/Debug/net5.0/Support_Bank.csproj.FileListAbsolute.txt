@@ -1,0 +1,16 @@
+C:\Users\ismmah\Training\CSharp\SupportBank\bin\Debug\net5.0\Support_Bank.exe
+C:\Users\ismmah\Training\CSharp\SupportBank\bin\Debug\net5.0\Support_Bank.deps.json
+C:\Users\ismmah\Training\CSharp\SupportBank\bin\Debug\net5.0\Support_Bank.runtimeconfig.json
+C:\Users\ismmah\Training\CSharp\SupportBank\bin\Debug\net5.0\Support_Bank.runtimeconfig.dev.json
+C:\Users\ismmah\Training\CSharp\SupportBank\bin\Debug\net5.0\Support_Bank.dll
+C:\Users\ismmah\Training\CSharp\SupportBank\bin\Debug\net5.0\ref\Support_Bank.dll
+C:\Users\ismmah\Training\CSharp\SupportBank\bin\Debug\net5.0\Support_Bank.pdb
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.csproj.AssemblyReference.cache
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.AssemblyInfoInputs.cache
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.AssemblyInfo.cs
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.csproj.CoreCompileInputs.cache
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.dll
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\ref\Support_Bank.dll
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.pdb
+C:\Users\ismmah\Training\CSharp\SupportBank\obj\Debug\net5.0\Support_Bank.genruntimeconfig.cache
